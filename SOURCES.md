@@ -1,7 +1,7 @@
 # Word-list sources & licensing
 
-This repo holds the word lists Expanto loads as dictionaries (real-word
-spell-check + typing hints). Each list is a flat `*.txt` of one term per line,
+This repo holds dictionaries (real-word
+spell-check + typing hints) used for spell-checking. Each list is a flat `*.txt` of one term per line,
 **extracted/derived** from the sources below — they are not the original
 databases. If you redistribute widely, verify the current terms at the sources.
 
