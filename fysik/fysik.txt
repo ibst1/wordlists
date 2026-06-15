@@ -1,0 +1,391 @@
+absorption
+acceleration
+accelerator
+adiabatisk process
+aggregationstillstånd
+aktivitet
+alfapartikel
+alfasönderfall
+allmänna gaslagen
+amorf
+ampere
+amplitud
+andra termodynamiska huvudsatsen
+angström
+anjon
+annihilation
+antimateria
+antipartikel
+arbete
+astrofysik
+astronomisk enhet
+atom
+atomfysik
+atomkärna
+atommassa
+atommodell
+atomnummer
+atomur
+avböjning
+banhastighet
+becquerel
+betapartikel
+betasönderfall
+bindningsenergi
+bohrmodell
+bohrradie
+boson
+bremsstrahlung
+brytning
+brytningsindex
+brytningslag
+böjning
+candela
+celsius
+centrifugalkraft
+centripetalacceleration
+centripetalkraft
+coulomb
+coulombs lag
+cyklotron
+dalton
+de broglie-våglängd
+deceleration
+decibel
+deformation
+densitet
+deuterium
+deuteron
+diamagnetism
+dielektricitetskonstant
+dielektrikum
+diffraktion
+diffusion
+diod
+dipol
+dipolmoment
+dispersion
+divergens
+dopplereffekt
+dosimetri
+dynamik
+effekt
+egenfrekvens
+elasticitet
+elektricitet
+elektrisk fältstyrka
+elektrisk laddning
+elektrisk potential
+elektrisk ström
+elektrod
+elektrodynamik
+elektrolys
+elektromagnet
+elektromagnetisk strålning
+elektromagnetisk våg
+elektromagnetism
+elektron
+elektronaffinitet
+elektronkonfiguration
+elektronmikroskop
+elektronskal
+elektronvolt
+elektrostatik
+elementarladdning
+elementarpartikel
+emission
+emissionsspektrum
+energi
+energinivå
+energiprincipen
+energitäthet
+entalpi
+entropi
+excitation
+fahrenheit
+fallrörelse
+farad
+faradays lag
+fart
+fasomvandling
+fasövergång
+fermi
+fermion
+ferromagnetism
+fission
+fissionsprodukt
+fjäderkonstant
+fluorescens
+flytkraft
+fokallängd
+foton
+fotoeffekt
+fotoelektrisk effekt
+fotometri
+fotonenergi
+frekvens
+friktion
+friktionskoefficient
+friktionskraft
+fritt fall
+fältkvant
+fältlinje
+fältstyrka
+förskjutning
+förstärkning
+gammakvant
+gammastrålning
+gas
+gaskonstant
+gausslag
+geigerräknare
+generator
+glödtråd
+gluon
+gradient
+gravitation
+gravitationsfält
+gravitationskonstant
+gravitationskraft
+gravitationsvåg
+halvledare
+halveringstid
+harmonisk svängning
+hastighet
+hertz
+higgsboson
+hookes lag
+hyperon
+impuls
+impulsmoment
+induktans
+induktion
+inertialsystem
+inerti
+infraljud
+infraröd strålning
+inre energi
+intensitet
+interferens
+jon
+jonbindning
+jonisation
+joniserande strålning
+joule
+joules lag
+jämvikt
+kalibrering
+kalori
+kalorimeter
+kapacitans
+kapacitor
+kaon
+katjon
+katod
+kelvin
+kilogram
+kinematik
+kinetisk energi
+kinetisk gasteori
+klyvning
+koefficient
+kollision
+kondensation
+kondensator
+konduktans
+konduktivitet
+konvektion
+kosmisk bakgrundsstrålning
+kosmisk strålning
+kosmologi
+kraft
+kropp
+kvant
+kvantfysik
+kvantmekanik
+kvanttal
+kvark
+kärnenergi
+kärnfysik
+kärnklyvning
+kärnkraft
+kärnreaktion
+kärnreaktor
+laddning
+laser
+ljud
+ljudhastighet
+ljudvåg
+ljus
+ljushastighet
+ljusstyrka
+ljusår
+lorentzkraft
+luftmotstånd
+lumen
+lux
+längdkontraktion
+magnetfält
+magnetisering
+magnetisk flödestäthet
+magnetisk induktion
+magnetisk kraft
+magnetism
+massa
+masscentrum
+massdefekt
+massenergi
+materia
+materievåg
+mekanik
+mekanisk energi
+meson
+meter
+mikrovåg
+moment
+momentum
+muon
+myon
+nanometer
+neutrino
+neutron
+neutronstjärna
+newton
+newtons lagar
+nollpunktsenergi
+normalkraft
+nukleon
+nukleosyntes
+nuklid
+nukleär
+optik
+oscillation
+oscilloskop
+parabel
+paramagnetism
+partikel
+partikelfysik
+pascal
+pendel
+periodisk rörelse
+periodtid
+permeabilitet
+permittivitet
+plancks konstant
+planet
+plasma
+polarisation
+positron
+potential
+potentiell energi
+precession
+prisma
+proton
+pulsar
+radian
+radioaktiv sönderfall
+radioaktivitet
+radius
+reaktans
+reaktor
+reflektion
+refraktion
+relativ hastighet
+relativitetsteori
+resistans
+resistivitet
+resonans
+rotation
+rotationsenergi
+röntgenstrålning
+rörelse
+rörelseenergi
+rörelsemängd
+rörelsemängdsmoment
+sekund
+självinduktion
+skalär
+solenoid
+solmassa
+solvind
+specifik värmekapacitet
+spektrallinje
+spektrometer
+spektroskopi
+spektrum
+spridning
+spänning
+standardmodellen
+statisk elektricitet
+stråle
+strålning
+strängteori
+ström
+strömkrets
+strömstyrka
+strömtäthet
+sublimering
+superledare
+superledning
+supernova
+supraledning
+svart hål
+svartkropp
+svängning
+synkrotron
+sönderfall
+sönderfallskonstant
+temperatur
+termisk energi
+termodynamik
+termometer
+tesla
+tidsdilatation
+tillstånd
+tryck
+tröghet
+tröghetsmoment
+turbulens
+tvärsnitt
+tyngd
+tyngdacceleration
+tyngdkraft
+tyngdpunkt
+täthet
+ultraljud
+ultraviolett strålning
+universum
+upplösning
+upplösningsförmåga
+vakuum
+valenselektron
+van der waals-kraft
+vattenkraft
+verkningsgrad
+vertikal
+viskositet
+volt
+voltmeter
+volym
+vridmoment
+våg
+vågfront
+vågfunktion
+våghastighet
+våglängd
+vågrörelse
+vågtal
+vågtopp
+värme
+värmekapacitet
+värmeledning
+värmestrålning
+värmeöverföring
+växelström
+watt
+weber
+ytspänning
+yttäthet
+återkoppling
+ångbildning
+överljudsfart
