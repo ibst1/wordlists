@@ -7,12 +7,12 @@ databases. If you redistribute widely, verify the current terms at the sources.
 
 ---
 
-## `allmant/` — general dictionaries
+## `general/` — general dictionaries
 
 - **`words_sv.txt`** — lowercased / cleaned derivative (~403k forms) of
   `swe_wordlist` from **[martinlindhe/wordlist_swedish](https://github.com/martinlindhe/wordlist_swedish)**,
   **MIT licensed** (© 2014 Martin Lindhe; symbols, uppercase forms and
-  multi-word entries removed). See `allmant/swe_wordlist.LICENSE.md` for the
+  multi-word entries removed). See `general/swe_wordlist.LICENSE.md` for the
   full MIT notice.
 
 - **`words_en.txt`** — `words_alpha.txt` (370,105 words) from
