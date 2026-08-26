@@ -1,9 +1,9 @@
 # Word lists/ordlistor
 
 Bundled **word-list / dictionary** content for the
-[Expanto](https://github.com) phrase manager. Expanto uses these lists for
-**real-word spell-check** and **typing hints / autocomplete** — the more
-relevant words it knows, the better its suggestions.
+[Expanto](https://github.com/ibst1/expanto) phrase manager. Expanto uses these
+lists for **real-word spell-check** and **typing hints / autocomplete** — the
+more relevant words it knows, the better its suggestions.
 
 ## What's in here
 
@@ -12,14 +12,13 @@ Expanto. Pick the ones that match what you write.
 
 | Subfolder | Innehåll |
 |-----------|----------|
-| `allmant/` | General Swedish + English dictionaries (everyday vocabulary). |
+| `general/` | General Swedish + English dictionaries (everyday vocabulary). |
 | `genetik/` | Human gene symbols and aliases. |
 | `medicin/` | Medical Subject Headings (MeSH) — Swedish and English. |
 | `fysik/` | Swedish physics terms (facktermer) — **seed list**, expanding. |
-| `filosofi-teologi/` | Swedish philosophy & theology terms — **seed list**, expanding. |
 
-The `fysik/` and `filosofi-teologi/` lists are **seed lists**: solid starting
-points that will grow over time.
+The `fysik/` list is a **seed list**: a solid starting point that will grow
+over time.
 
 ## File format
 
